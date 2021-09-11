@@ -1,0 +1,11 @@
+{
+  "autoload": {
+	"psr-4": {"Main\\": "./main/"}
+  },
+  "config": {
+	"vendor-dir": "dependencies"
+  },
+  "require": {
+	"symfony/yaml": "2.6.4"
+  }
+}
